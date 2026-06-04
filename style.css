@@ -5,5 +5,15 @@
 }
 nav{
     display: flex;
-    
+    gap: 25px;
+    align-items: center;
+    padding: 2px;
+    justify-content:space-between;
+    background: rgb(49, 49, 119);
+    color: white;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
 }
